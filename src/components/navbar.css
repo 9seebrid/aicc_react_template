@@ -11,6 +11,7 @@ nav{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  height:auto;
 }
 /* LOGO */
 .nav_wrapper .logo{
@@ -23,6 +24,7 @@ nav{
   width: 40px;
   height: 40px;
   border-radius: 100%;
+
   display: flex;
   justify-content: center;
   align-items: center;
