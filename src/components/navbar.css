@@ -65,7 +65,7 @@ nav{
 
 
 .mode_btn{
-  font-size: 0.625rem;
+  _font-size: 0.625rem;
   _padding: 0 0.5rem;
   border-radius: 0.5rem;
   border: 1px solid rgb(64, 64, 64);

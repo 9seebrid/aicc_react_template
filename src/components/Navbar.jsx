@@ -26,7 +26,7 @@ const Navbar = () => {
               </li>
             ))}
           </ul>
-          <div className="sub_link_wrapper flex ">
+          <div className="sub_link_wrapper flex">
             <div className="sub_links hidden lg:flex">
               {authLink.map((item, idx) => (
                 <Link
@@ -38,7 +38,7 @@ const Navbar = () => {
                 </Link>
               ))}
             </div>
-            <div className="menu_icon lg:hidden">
+            <div className="menu_icon lg:hidden flex">
               <button onClick={() => setmobileMenuOpen(!mobileMenuOpen)}>{mobileMenuOpen ? <X /> : <Menu />}</button>
             </div>
             <ModuleCtrl />
