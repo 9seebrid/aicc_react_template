@@ -8,9 +8,26 @@
   color-scheme: dark;
 }
 
-.container{
+.container{  
   margin: auto;  
   padding: 1rem ;
   width: 100%;
 
+}
+
+@media(max-width: 1024px){
+  .container{
+    max-width: 100%;
+  }
+}
+
+/* footer .container{
+  display: grid;
+  /* grid-template-columns: repeat(3, 1fr) 아래와 같은 값 */ 
+  /* grid-template-columns: 1fr 1fr 1fr;} */
+
+
+.vid{
+  width: 80%;
+  box-shadow: 0 0 5px indigo;
 }
