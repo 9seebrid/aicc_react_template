@@ -3,6 +3,7 @@ import HeroSection from './HeroSection';
 import FeaturesSection from './FeaturesSection';
 import Workflow from './Workflow';
 import Pricing from './Pricing';
+import PeopleSection from './PeopleSection';
 
 const index = () => {
   return (
@@ -12,6 +13,7 @@ const index = () => {
         <FeaturesSection />
         <Workflow />
         <Pricing />
+        <PeopleSection />
       </div>
     </div>
   );

@@ -170,3 +170,36 @@ export const heroLinks = [
   { to: 'start-for-free', text: 'start for free' },
   { to: 'documentation', text: 'documentation' },
 ];
+
+export const featuresDetail = [
+  {
+    text: '편리한 사용자 인터페이스',
+    description:
+      'Easily design and arrange your VR environments with a user-friendly drag-and-drop interface. Easily design and arrange your VR environments with a user-friendly drag-and-drop interface. Easily design and arrange your VR environments with a user-friendly drag-and-drop interface. Easily design and arrange your VR environments with a user-friendly drag-and-drop interface. Easily design and arrange your VR environments with a user-friendly drag-and-drop interface. Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.',
+  },
+  {
+    text: '멀티 플랫폼 확장성',
+    description:
+      'Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.',
+  },
+  {
+    text: '맞춤형 탬플릿',
+    description:
+      'Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.',
+  },
+  {
+    text: '실시간 리뷰',
+    description:
+      'Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.',
+  },
+  {
+    text: '견고한 협업 툴',
+    description:
+      'Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.',
+  },
+  {
+    text: '분석을 위한 대시보드',
+    description:
+      'Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.',
+  },
+];
